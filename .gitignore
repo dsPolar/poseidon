@@ -1,0 +1,7 @@
+*.zip
+*.smr
+*.pyc
+graphs/*
+*.dat
+*.png
+*.npy

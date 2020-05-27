@@ -1,0 +1,82 @@
+<!--
+
+Normally we'd collect information about your projects using an online form,
+but the CS web-site is being retired and SAFE isn't up to the task yet.  As
+an interim solution the idea is that
+
+- you complete this XML file, replacing the template content but retaining
+  the structure, and submit it via SAFE,
+  then
+- later, and hopefully (semi-)automatically, we'll import it into SAFE for
+  you in order to drive the assessment process.
+
+This submission represents a draft specification.  Completion of the content
+below is an exercise in formative assessment only: it is a way to a) explore
+the viability of initial ideas, and refine these where need be, and b) allow
+provision of feedback.  We therefore want a clear, concise specification of
+no more than one page of A4.
+
+If in doubt about the content of the longer sections, make sure you read the
+unit handbook at
+
+
+-->
+<project>
+<!--
+
+In this section, we want
+
+1. your CS user name
+   (e.g., "jl8971"),
+2. your project title (even if you change this later),
+3. the full name of                your Supervisor within  CS,
+   (e.g., "Daniel Page"),
+4. whether said Supervisor is  confirmed or tentative,
+5. the full name (and affiliation) any  Advisor(s) outside CS
+   (e.g., an industrial collaborator such as "Fred Bloggs, IBM"),
+6. whether said Advisor(s) are confirmed or tentative,
+   and
+7. whether your project is of type enterprise or research (which implies you
+   are also registered on the associated "sister unit").
+-->
+<admin>
+<username>ds16797</username>
+<title>Estimating Neural Properties using Whole Cell Electrophysiology</title>
+<supervisor>Cian O'Donnell</supervisor>
+<confirmed_supervisor>yes</confirmed_supervisor>
+<advisor></advisor>
+<confirmed_advisor>n/a</confirmed_advisor>
+<type>research</type>
+</admin>
+<!--
+
+In this section we want a high-level description of the project; the content
+might include a description of what the central problem is, and any previous
+or related work done to solve it.
+-->
+<description> ... </description>
+<!--
+
+In this section we want a low(er)-level outline of exactly what you will to
+do within the project.  The easiest way to structure this is as a concise,
+focused set of bullet points outlining a) the high-level objective(s), and
+b) concrete, step-by-step aims that will move you towards this.
+-->
+<obj> ... </obj>
+<!--
+
+In this section we want a draft plan for execution of the outlined aims and
+objectives.  This often focusses on time scales, but, crucially, you should
+carefully read
+
+http://www.cs.bris.ac.uk/Teaching/hse.pdf
+
+and, where appropriate, include
+
+a) a heath and safety risk assessment, and
+b) a statement of any potential ethics implications
+
+plus suitable contingency planning for the issues identified.
+-->
+<plan> ... </plan>
+</project>

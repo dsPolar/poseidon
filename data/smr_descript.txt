@@ -1,0 +1,30 @@
+JP36_002
+DescribeResult(nobs=3517941, minmax=(array([-72.628784], dtype=float32), array([4.4799805], dtype=float32)), mean=array([-51.592503], dtype=float32), variance=array([141.32825], dtype=float32), skewness=array([2.7453418], dtype=float32), kurtosis=array([8.3264675], dtype=float32))
+DescribeResult(nobs=3517941, minmax=(array([0.04730225], dtype=float32), array([3.3805847], dtype=float32)), mean=array([0.05911822], dtype=float32), variance=array([0.0234538], dtype=float32), skewness=array([21.61534], dtype=float32), kurtosis=array([465.25107], dtype=float32))
+JP37_001
+DescribeResult(nobs=2821575, minmax=(array([-72.04285], dtype=float32), array([-0.64086914], dtype=float32)), mean=array([-55.65078], dtype=float32), variance=array([37.449787], dtype=float32), skewness=array([1.5006236], dtype=float32), kurtosis=array([7.028738], dtype=float32))
+DescribeResult(nobs=2821575, minmax=(array([0.04730225], dtype=float32), array([3.38089], dtype=float32)), mean=array([0.06088822], dtype=float32), variance=array([0.02941949], dtype=float32), skewness=array([19.279638], dtype=float32), kurtosis=array([369.72528], dtype=float32))
+JP37_003
+DescribeResult(nobs=10602555, minmax=(array([-83.64258], dtype=float32), array([12.37793], dtype=float32)), mean=array([-70.78718], dtype=float32), variance=array([30.291962], dtype=float32), skewness=array([0.3909464], dtype=float32), kurtosis=array([2.6836495], dtype=float32))
+DescribeResult(nobs=10602555, minmax=(array([0.04989624], dtype=float32), array([3.3833313], dtype=float32)), mean=array([0.05696619], dtype=float32), variance=array([0.00781303], dtype=float32), skewness=array([37.547806], dtype=float32), kurtosis=array([1408.1156], dtype=float32))
+JP37_005
+DescribeResult(nobs=8111367, minmax=(array([-74.84741], dtype=float32), array([-17.443848], dtype=float32)), mean=array([-63.38919], dtype=float32), variance=array([13.421685], dtype=float32), skewness=array([0.27792022], dtype=float32), kurtosis=array([1.6038661], dtype=float32))
+DescribeResult(nobs=8111367, minmax=(array([0.04928589], dtype=float32), array([3.3833313], dtype=float32)), mean=array([0.05733373], dtype=float32), variance=array([0.01056811], dtype=float32), skewness=array([32.271072], dtype=float32), kurtosis=array([1039.5719], dtype=float32))
+JP38_003
+DescribeResult(nobs=4159349, minmax=(array([-72.96753], dtype=float32), array([-9.637451], dtype=float32)), mean=array([-63.282925], dtype=float32), variance=array([119.60397], dtype=float32), skewness=array([3.8614252], dtype=float32), kurtosis=array([13.945105], dtype=float32))
+DescribeResult(nobs=4159348, minmax=(array([0.06439209], dtype=float32), array([3.3996582], dtype=float32)), mean=array([0.07600718], dtype=float32), variance=array([0.01980113], dtype=float32), skewness=array([23.534788], dtype=float32), kurtosis=array([551.9575], dtype=float32))
+JP38_005
+DescribeResult(nobs=3972917, minmax=(array([-86.026], dtype=float32), array([-22.207642], dtype=float32)), mean=array([-63.555763], dtype=float32), variance=array([15.834197], dtype=float32), skewness=array([0.59527284], dtype=float32), kurtosis=array([4.4151783], dtype=float32))
+DescribeResult(nobs=3972916, minmax=(array([0.05737305], dtype=float32), array([3.390503], dtype=float32)), mean=array([0.06878138], dtype=float32), variance=array([0.0207241], dtype=float32), skewness=array([23.001352], dtype=float32), kurtosis=array([527.10803], dtype=float32))
+JP41_006
+DescribeResult(nobs=18473130, minmax=(array([-83.68225], dtype=float32), array([-13.162231], dtype=float32)), mean=array([-60.31347], dtype=float32), variance=array([16.064192], dtype=float32), skewness=array([1.2665912], dtype=float32), kurtosis=array([4.4775352], dtype=float32))
+DescribeResult(nobs=18473130, minmax=(array([0.07171631], dtype=float32), array([3.4075928], dtype=float32)), mean=array([0.07926334], dtype=float32), variance=array([0.00449536], dtype=float32), skewness=array([49.496025], dtype=float32), kurtosis=array([2449.516], dtype=float32))
+JP41_014
+DescribeResult(nobs=23068326, minmax=(array([-82.51648], dtype=float32), array([-3.4606934], dtype=float32)), mean=array([-55.8168], dtype=float32), variance=array([56.32614], dtype=float32), skewness=array([0.48988292], dtype=float32), kurtosis=array([-0.08317327], dtype=float32))
+DescribeResult(nobs=23068326, minmax=(array([0.06652832], dtype=float32), array([3.4138489], dtype=float32)), mean=array([0.08230274], dtype=float32), variance=array([0.00366244], dtype=float32), skewness=array([53.83787], dtype=float32), kurtosis=array([2954.2666], dtype=float32))
+JP43_005
+DescribeResult(nobs=3107324, minmax=(array([-66.56494], dtype=float32), array([-17.300415], dtype=float32)), mean=array([-55.22505], dtype=float32), variance=array([80.75864], dtype=float32), skewness=array([1.9989743], dtype=float32), kurtosis=array([3.1925807], dtype=float32))
+DescribeResult(nobs=3107323, minmax=(array([0.08346558], dtype=float32), array([3.4207153], dtype=float32)), mean=array([0.17838421], dtype=float32), variance=array([0.28659585], dtype=float32), skewness=array([5.880609], dtype=float32), kurtosis=array([32.58205], dtype=float32))
+JP45_005
+DescribeResult(nobs=4058094, minmax=(array([-89.61182], dtype=float32), array([-22.720337], dtype=float32)), mean=array([-66.15787], dtype=float32), variance=array([31.261478], dtype=float32), skewness=array([1.1209545], dtype=float32), kurtosis=array([5.352846], dtype=float32))
+DescribeResult(nobs=4058094, minmax=(array([0.11077881], dtype=float32), array([3.4510803], dtype=float32)), mean=array([0.12582421], dtype=float32), variance=array([0.02038929], dtype=float32), skewness=array([23.181925], dtype=float32), kurtosis=array([535.57745], dtype=float32))
